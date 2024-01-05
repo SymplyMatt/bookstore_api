@@ -1,4 +1,4 @@
-module github.com/akhil/go-bookstore
+module github.com/SymplyMatt/bookstore_api
 
 go 1.16
 
